@@ -1,0 +1,29 @@
+{
+  "name": "next-now",
+  "version": "1.0.0",
+  "description": "In this example we will be deploying a simple \"Hello World\" example with Next.js.",
+  "main": "next.config.js",
+  "dependencies": {
+    "cowsay-browser": "^1.1.8",
+    "next": "^7.0.2",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapperfox/next-now.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dapperfox/next-now/issues"
+  },
+  "homepage": "https://github.com/dapperfox/next-now#readme"
+}
